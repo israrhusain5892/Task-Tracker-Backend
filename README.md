@@ -3,7 +3,7 @@
 A full-stack Task Tracker application built using **React.js** for the frontend and **Node.js** (Express) for the backend. This app allows users to manage tasks efficiently with features like task creation, updates, deletions, and status tracking.
 
 ---
-🔗 **Live website:** [Click here to try the app](https://task-tracker-frontend-ten.vercel.app/)
+🔗 **Live website:** [Click here](https://task-tracker-frontend-ten.vercel.app/)
 ## 🚀 Features
 
 - ✅ User Authentication (Register & Login)
@@ -14,7 +14,7 @@ A full-stack Task Tracker application built using **React.js** for the frontend 
 - 🧑‍🤝‍🧑 Team collaboration (if enabled)
 
 ---
-🔗 **Backend code Link:** [Click here to try the app](https://github.com/israrhusain5892/Task-Tracker-Backend.git)
+🔗 **Backend code Link:** [Click here](https://github.com/israrhusain5892/Task-Tracker-Backend.git)
 ## 🛠️ Tech Stack
 
 ### Frontend
